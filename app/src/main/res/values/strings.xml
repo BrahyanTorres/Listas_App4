@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Listas_App4</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Brahyan Torres</string>
+    <string name="ultimoMensaje">Bienvenido al equipo</string>
+    <string name="nombre">Nombre</string>
+    <string name="mensaje">Último mensaje recibido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="numeroTelefono">+573004988487</string>
+    <string name="pais">País</string>
+    <string name="nombrePais">Colombia</string>
+</resources>
